@@ -23,12 +23,36 @@ My Brief Information here.
 
 # Project
 
+## TensorFlow Applied to Neural Language Models
+*    Jun. 2018 to Aug. 2018
+*    MSc theis, supervised by Ben Allison (Amazon) and Tania Bakhos (Amazon).
+*    blabla
+
+## Marketing: Predicting Customer Behaviors
+*    Mar. 2018 to Apr. 2018
+*    Coursework in Data Mining and Exploration
+*    blablabla
+
+
+## Instance Segmentation of Nucleus Images
+*    Feb. 2018 to Apr. 2018
+*    Coursework in Machine Learning Practical, supervised by Steve Renals
+*    blablabla
 
 # Skill
-
+*    Python, including TensorFlow, Keras, Pandas, sk-learn, etc.
+*    Linux
+*    Hadoop
+*    Beginner: C, C++, Java, SAS, SQL, Matlab, R
 
 # Award
-
+*    Informatics International Masters Scholarship in Nov. 2017
+*    Hua Luogeng Schorlarship in Dec. 2016
+*    Honorable Mention @ Interdisciplinary Contest in Modeling (US) in Apr. 2016
+*    First Prize @ Shandong Province Mathematics Competitions (China) in Dec. 2015
+*    Third Prize @ Chinese Mathematics Competitions in Nov. 2015
+*    Second Prize @ Shandong Province Zone of China Undergraduate Mathematical Contest in Modelling (MCM) in Oct. 2015
+*    Meritorious Winner @ Certificate Authority Cup International MCM in Jan. 2015
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
