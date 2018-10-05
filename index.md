@@ -6,20 +6,19 @@ My Brief Information here.
 
 # Education
 
-*   University of Edinburgh 2017-2018 \\
-Degree: Master of Science with Distinction \\
-Programme: Data Science \\
-School: School of Informatics \\
-GPA: 78/100 (courses) & 72/100 (dissertation) \\
-Scholarship: Informatics International Masters Scholarship \\
-Core courses: MLPR (69/100), PMR (90/100)...
+## University of Edinburgh (UK)
+*   Sep. 2017 to Nov. 2018
+*   Master of Science with Distinction
+*   Data Science @ School of Informatics
+*   GPA: 78/100
+*   Core Courses: MLPR (69/100), PMR (90/100)...
 
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-
-# Employment
+## Shandong University (China)
+*   Sep. 2013 to Jun. 2017
+*   Bachelor of Science
+*   Mathematics and Applied Mathematics @ Hua Luogeng Class (National Mathematical Training Base)
+*   GPA: 85/100
+*   Core Courses: 
 
 
 # Project
