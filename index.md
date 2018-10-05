@@ -6,7 +6,7 @@ My Brief Information here.
 
 # Education
 
-*   University of Edinburgh 2017-2018
+*   University of Edinburgh 2017-2018 \\
 Degree: Master of Science with Distinction
 Programme: Data Science
 School: School of Informatics
