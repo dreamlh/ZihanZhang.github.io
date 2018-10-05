@@ -54,6 +54,8 @@ My Brief Information here.
 *    Second Prize @ Shandong Province Zone of China Undergraduate Mathematical Contest in Modelling (MCM) in Oct. 2015
 *    Meritorious Winner @ Certificate Authority Cup International MCM in Jan. 2015
 
+[//]: # (
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -173,3 +175,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+)
