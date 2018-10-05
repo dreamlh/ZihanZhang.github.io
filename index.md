@@ -2,7 +2,11 @@
 layout: default
 ---
 
+This page is under construction.
+
 My Brief Information here.
+
+Contact: s1719186@ed.ac.uk
 
 # Education
 
