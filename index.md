@@ -7,11 +7,11 @@ My Brief Information here.
 # Education
 
 *   University of Edinburgh 2017-2018 \\
-Degree: Master of Science with Distinction
-Programme: Data Science
-School: School of Informatics
-GPA: 78/100 (courses) & 72/100 (dissertation)
-Scholarship: Informatics International Masters Scholarship
+Degree: Master of Science with Distinction \\
+Programme: Data Science \\
+School: School of Informatics \\
+GPA: 78/100 (courses) & 72/100 (dissertation) \\
+Scholarship: Informatics International Masters Scholarship \\
 Core courses: MLPR (69/100), PMR (90/100)...
 
 
