@@ -37,12 +37,13 @@ Contact: s1719186@ed.ac.uk
 *    Mar. 2018 to Apr. 2018
 *    Coursework in Data Mining and Exploration, with Yi Wei, Wen Jia and Jiayu Li.
 *    blablabla
-
+*    Get access to [pdf](./DME_report.pdf).
 
 ## Instance Segmentation of Nucleus Images
 *    Feb. 2018 to Apr. 2018
 *    Coursework in Machine Learning Practical, with Yi Wei and Zhengjun Yue, supervised by Steve Renals.
 *    blablabla
+*    Get access to [pdf](./mlp-final-report.pdf).
 
 # Skill
 *    Python, including TensorFlow, Keras, Pandas, sk-learn, etc.
