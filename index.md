@@ -54,7 +54,7 @@ My Brief Information here.
 *    Second Prize @ Shandong Province Zone of China Undergraduate Mathematical Contest in Modelling (MCM) in Oct. 2015
 *    Meritorious Winner @ Certificate Authority Cup International MCM in Jan. 2015
 
-[//]: # (
+[comment]: <> (a)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
