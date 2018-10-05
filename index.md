@@ -31,16 +31,17 @@ Contact: s1719186@ed.ac.uk
 *    Jun. 2018 to Aug. 2018
 *    MSc thesis, supervised by Ben Allison (Amazon) and Tania Bakhos (Amazon).
 *    blabla
+*    Get access to [pdf](./dissertation.pdf).
 
 ## Marketing: Predicting Customer Behaviors
 *    Mar. 2018 to Apr. 2018
-*    Coursework in Data Mining and Exploration
+*    Coursework in Data Mining and Exploration, with Yi Wei, Wen Jia and Jiayu Li.
 *    blablabla
 
 
 ## Instance Segmentation of Nucleus Images
 *    Feb. 2018 to Apr. 2018
-*    Coursework in Machine Learning Practical, supervised by Steve Renals
+*    Coursework in Machine Learning Practical, with Yi Wei and Zhengjun Yue, supervised by Steve Renals.
 *    blablabla
 
 # Skill
