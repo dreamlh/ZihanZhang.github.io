@@ -6,14 +6,14 @@ My Brief Information here.
 
 # Education
 
-## University of Edinburgh (UK)
+## University of Edinburgh, UK
 *   Sep. 2017 to Nov. 2018
 *   Master of Science with Distinction
 *   Data Science @ School of Informatics
 *   GPA: 78/100
 *   Core Courses: MLPR (69/100), PMR (90/100)...
 
-## Shandong University (China)
+## Shandong University, China
 *   Sep. 2013 to Jun. 2017
 *   Bachelor of Science
 *   Mathematics and Applied Mathematics @ Hua Luogeng Class (National Mathematical Training Base)
@@ -25,7 +25,7 @@ My Brief Information here.
 
 ## TensorFlow Applied to Neural Language Models
 *    Jun. 2018 to Aug. 2018
-*    MSc theis, supervised by Ben Allison (Amazon) and Tania Bakhos (Amazon).
+*    MSc dissertation, supervised by Ben Allison (Amazon) and Tania Bakhos (Amazon).
 *    blabla
 
 ## Marketing: Predicting Customer Behaviors
