@@ -2,7 +2,36 @@
 layout: default
 ---
 
-;Text can be **bold**, _italic_, or ~~strikethrough~~.
+My Brief Information here.
+
+# Education
+
+*   University of Edinburgh 2017-2018
+Degree: Master of Science with Distinction
+Programme: Data Science
+School: School of Informatics
+GPA: 78/100 (courses) & 72/100 (dissertation)
+Scholarship: Informatics International Masters Scholarship
+Core courses: MLPR (69/100), PMR (90/100)...
+
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+
+# Employment
+
+
+# Project
+
+
+# Skill
+
+
+# Award
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
