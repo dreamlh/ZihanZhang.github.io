@@ -11,21 +11,21 @@ My Brief Information here.
 *   Master of Science with Distinction
 *   Data Science @ School of Informatics
 *   GPA: 78/100
-*   Core Courses: MLPR (69/100), PMR (90/100)...
+*   Core Courses: Machine Learning and Patter Recognition (69/100), Machine Learning Practical (84/100), Probabilistic Modelling and Reasoning (90/100), Data Mining and Exploration (80/100), etc.
 
 ## Shandong University, China
 *   Sep. 2013 to Jun. 2017
 *   Bachelor of Science
 *   Mathematics and Applied Mathematics @ Hua Luogeng Class (National Mathematical Training Base)
-*   GPA: 85/100
-*   Core Courses: 
+*   GPA: 85/100 or 4.3/5.0
+*   Related Courses: Probability Theory (89/100), Mathematical Statistics (95/100), Applied Statistics (88/100), etc.
 
 
 # Project
 
 ## TensorFlow Applied to Neural Language Models
 *    Jun. 2018 to Aug. 2018
-*    MSc dissertation, supervised by Ben Allison (Amazon) and Tania Bakhos (Amazon).
+*    MSc thesis, supervised by Ben Allison (Amazon) and Tania Bakhos (Amazon).
 *    blabla
 
 ## Marketing: Predicting Customer Behaviors
