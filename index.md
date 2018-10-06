@@ -43,7 +43,7 @@ Contact: s1719186@ed.ac.uk
 -    Feb. 2018 to Apr. 2018
 -    Coursework in Machine Learning Practical, with _Yi Wei_ and _Zhengjun Yue_, supervised by _Steve Renals_.
 -    blablabla
--    Get access to [pdf](./mlp-final-report.pdf).
+-    Get access to [pdf](./mlp-final-report.pdf)
 
 # Skill
 *    Python, including TensorFlow, Keras, Pandas, sk-learn, etc.
