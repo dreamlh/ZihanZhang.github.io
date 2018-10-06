@@ -30,20 +30,20 @@ Contact: s1719186@ed.ac.uk
 ## TensorFlow Applied to Neural Language Models
 -    Jun. 2018 to Aug. 2018
 -    **MSc thesis**, supervised by _Ben Allison_ (Amazon) and _Tania Bakhos_ (Amazon).
--    blabla
+-    To be completed.
 -    Get access to [pdf](./dissertation.pdf) or [code](https://github.com/dreamlh/MoStfmodels).
 
 ## Marketing: Predicting Customer Behaviors
 -    Mar. 2018 to Apr. 2018
 -    Coursework in Data Mining and Exploration, with _Yi Wei_, _Wen Jia_ and _Jiayu Li_.
--    blablabla
+-    To be completed.
 -    Get access to [pdf](./DME_report.pdf).
 
 ## Instance Segmentation of Nucleus Images
 -    Feb. 2018 to Apr. 2018
 -    Coursework in Machine Learning Practical, with _Yi Wei_ and _Zhengjun Yue_, supervised by _Steve Renals_.
--    blablabla
--    Get access to [pdf](./mlp-final-report.pdf)
+-    To be completed.
+-    Get access to [pdf](./mlp-final-report.pdf).
 
 # Skill
 *    Python, including TensorFlow, Keras, Pandas, sk-learn, etc.
