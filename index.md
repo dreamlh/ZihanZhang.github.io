@@ -28,28 +28,29 @@ Contact: s1719186@ed.ac.uk
 # Project
 
 ## TensorFlow Applied to Neural Language Models
--    Jun. 2018 to Aug. 2018
--    **MSc thesis**, supervised by _Ben Allison_ (Amazon) and _Tania Bakhos_ (Amazon).
--    To be completed.
--    Get access to [pdf](./dissertation.pdf) or [code](https://github.com/dreamlh/MoStfmodels).
+- Jun. 2018 to Aug. 2018
+- **MSc thesis**, supervised by _Ben Allison_ (Amazon) and _Tania Bakhos_ (Amazon).
+- Contents: To be completed.
+- Get access to [pdf](./dissertation.pdf) or [code](https://github.com/dreamlh/MoStfmodels).
 
 ## Marketing: Predicting Customer Behaviors
--    Mar. 2018 to Apr. 2018
--    Coursework in Data Mining and Exploration, with _Yi Wei_, _Wen Jia_ and _Jiayu Li_.
--    Content:
-  -    Preprocess the large and dirty dataset by pandas, making it clean enough to feed neural networks.
-  -    Clip variables with large amounts of missing data; fill in the missing data; encode categorical data by one hot; reduce dimensions by linear or unlinear methods including PCA, Isomap & LLE.
-  -    Predict bahaviors by deep models; optimize hyperparameters; evaluate the result by AUC scores.
--    Get access to [pdf](./DME_report.pdf).
+- Mar. 2018 to Apr. 2018
+- Coursework in Data Mining and Exploration, with _Yi Wei_, _Wen Jia_ and _Jiayu Li_.
+- Contents:
+  - Preprocess the large and dirty dataset by pandas, making it clean enough to feed neural networks.
+  - Clip variables with large amounts of missing data; fill in the missing data; encode categorical data by one hot; reduce dimensions by linear or unlinear methods including PCA, Isomap & LLE.
+  - Predict bahaviors by deep models; optimize hyperparameters; evaluate the result by AUC scores.
+- Get access to [pdf](./DME_report.pdf).
 
 ## Instance Segmentation of Nucleus Images
--    Feb. 2018 to Apr. 2018
--    Coursework in Machine Learning Practical, with _Yi Wei_ and _Zhengjun Yue_, supervised by _Steve Renals_.
-  -    Segment nucleus instances from nucleus images acquired in different microscopy systems.
-  -    In the baseline experiments, use fully convolutional networks with VGG16 backbone to semantically segment nuclei from the background, and use open operation to separate individual nuclei.
-  -    In the contrast experiments, apply Mask RCNN to direct segment nucleus instances. Extract features by ResNet101 with Feature Pymarid Networks; select regions of interest by Region Proposal Networks; semantically segment the nuclei in all regions by fully convolutional networks.
-  -    Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters.
--    Get access to [pdf](./mlp-final-report.pdf).
+- Feb. 2018 to Apr. 2018
+- Coursework in Machine Learning Practical, with _Yi Wei_ and _Zhengjun Yue_, supervised by _Steve Renals_.
+- Contents:
+  - Segment nucleus instances from nucleus images acquired in different microscopy systems.
+  - In the baseline experiments, use fully convolutional networks with VGG16 backbone to semantically segment nuclei from the background, and use open operation to separate individual nuclei.
+  - In the contrast experiments, apply Mask RCNN to direct segment nucleus instances. Extract features by ResNet101 with Feature Pymarid Networks; select regions of interest by Region Proposal Networks; semantically segment the nuclei in all regions by fully convolutional networks.
+  - Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters.
+- Get access to [pdf](./mlp-final-report.pdf).
 
 # Skill
 *    Python, including TensorFlow, Keras, Pandas, sk-learn, etc.
