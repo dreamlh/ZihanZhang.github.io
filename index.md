@@ -20,7 +20,7 @@ Contact: s1719186@ed.ac.uk
 ## Shandong University, China
 *   Sep. 2013 to Jun. 2017
 *   Bachelor of Science
-*   Mathematics and Applied Mathematics @ Hua Luogeng Class (National Mathematical Training Base)
+*   Mathematics and Applied Mathematics @ Hua Luogeng Class (National Mathematical Training Base) in School of Mathematics
 *   GPA: 85/100 or 4.3/5.0
 *   Related Courses: Probability Theory (89/100), Mathematical Statistics (95/100), Applied Statistics (88/100), etc.
 
@@ -36,13 +36,19 @@ Contact: s1719186@ed.ac.uk
 ## Marketing: Predicting Customer Behaviors
 -    Mar. 2018 to Apr. 2018
 -    Coursework in Data Mining and Exploration, with _Yi Wei_, _Wen Jia_ and _Jiayu Li_.
--    To be completed.
+-    Content:
+   -    Preprocess the large and dirty dataset by pandas, making it clean enough to feed neural networks.
+   -    Clip variables with large amounts of missing data; fill in the missing data; encode categorical data by one hot; reduce dimensions by linear or unlinear methods including PCA, Isomap & LLE.
+   -    Predict bahaviors by deep models; optimize hyperparameters; evaluate the result by AUC scores.
 -    Get access to [pdf](./DME_report.pdf).
 
 ## Instance Segmentation of Nucleus Images
 -    Feb. 2018 to Apr. 2018
 -    Coursework in Machine Learning Practical, with _Yi Wei_ and _Zhengjun Yue_, supervised by _Steve Renals_.
--    To be completed.
+   -    Segment nucleus instances from nucleus images acquired in different microscopy systems.
+   -    In the baseline experiments, use fully convolutional networks with VGG16 backbone to semantically segment nuclei from the background, and use open operation to separate individual nuclei.
+   -    In the contrast experiments, apply Mask RCNN to direct segment nucleus instances. Extract features by ResNet101 with Feature Pymarid Networks; select regions of interest by Region Proposal Networks; semantically segment the nuclei in all regions by fully convolutional networks.
+   -    Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters.
 -    Get access to [pdf](./mlp-final-report.pdf).
 
 # Skill
