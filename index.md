@@ -2,9 +2,9 @@
 layout: default
 ---
 
-This page is under construction.
+**This page is under construction.**
 
-My Brief Information here.
+I am a postgraduate student in University of Edinburgh. I have completed all the courses and the dissertation, and will graduate in Nov. 2018. I am interested in Machine Learning & Artifical Intelligence.
 
 Contact: s1719186@ed.ac.uk
 
@@ -29,19 +29,19 @@ Contact: s1719186@ed.ac.uk
 
 ## TensorFlow Applied to Neural Language Models
 -    Jun. 2018 to Aug. 2018
--    **MSc thesis**, supervised by Ben Allison (Amazon) and Tania Bakhos (Amazon).
+-    **MSc thesis**, supervised by _Ben Allison_ (Amazon) and _Tania Bakhos_ (Amazon).
 -    blabla
 -    Get access to [pdf](./dissertation.pdf) or [code](https://github.com/dreamlh/MoStfmodels).
 
 ## Marketing: Predicting Customer Behaviors
 -    Mar. 2018 to Apr. 2018
--    Coursework in Data Mining and Exploration, with Yi Wei, Wen Jia and Jiayu Li.
+-    Coursework in Data Mining and Exploration, with _Yi Wei_, _Wen Jia_ and _Jiayu Li_.
 -    blablabla
 -    Get access to [pdf](./DME_report.pdf).
 
 ## Instance Segmentation of Nucleus Images
 -    Feb. 2018 to Apr. 2018
--    Coursework in Machine Learning Practical, with Yi Wei and Zhengjun Yue, supervised by Steve Renals.
+-    Coursework in Machine Learning Practical, with _Yi Wei_ and _Zhengjun Yue_, supervised by _Steve Renals_.
 -    blablabla
 -    Get access to [pdf](./mlp-final-report.pdf).
 
