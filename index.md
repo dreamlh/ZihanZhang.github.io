@@ -12,14 +12,14 @@ Contact: s1719186@ed.ac.uk
 
 ## University of Edinburgh, UK
 *   Sep. 2017 to Nov. 2018
-*   Master of Science with Distinction
+*   **Master of Science with Distinction**
 *   Data Science @ School of Informatics
 *   GPA: 78/100
 *   Core Courses: Machine Learning and Patter Recognition (69/100), Machine Learning Practical (84/100), Probabilistic Modelling and Reasoning (90/100), Data Mining and Exploration (80/100), etc.
 
 ## Shandong University, China
 *   Sep. 2013 to Jun. 2017
-*   Bachelor of Science
+*   **Bachelor of Science**
 *   Mathematics and Applied Mathematics @ Hua Luogeng Class (National Mathematical Training Base) in School of Mathematics
 *   GPA: 85/100 or 4.3/5.0
 *   Related Courses: Probability Theory (89/100), Mathematical Statistics (95/100), Applied Statistics (88/100), etc.
@@ -30,8 +30,13 @@ Contact: s1719186@ed.ac.uk
 ## TensorFlow Applied to Neural Language Models
 - Jun. 2018 to Aug. 2018
 - **MSc thesis**, supervised by _Ben Allison_ (Amazon) and _Tania Bakhos_ (Amazon).
-- Contents: To be completed.
-- Get access to [pdf](./dissertation.pdf) or [code](https://github.com/dreamlh/MoStfmodels).
+- Contents:
+  - Implement Neural Language Models with Mixture of Softmaxes using TensorFlow to solve the Softmax bottleneck;
+  - Optimize hyperparameters mainly by specific Random Search; explore the influence of different LSTM implementations and the number of Softmax components.
+  - Speed up training by: training models in parallel on multiple GPUs; weight tying; weight matrix factorization; Gradient Clipping.
+  - The final model has lower perplexity and higher speed, compared with the original model.
+  - Compare the final TensorFlow model with the same model implemented using PyTorch.
+- Get access to [pdf](./dissertation.pdf) and [code](https://github.com/dreamlh/MoStfmodels).
 
 ## Marketing: Predicting Customer Behaviors
 - Mar. 2018 to Apr. 2018
@@ -49,7 +54,7 @@ Contact: s1719186@ed.ac.uk
   - Segment nucleus instances from nucleus images acquired in different microscopy systems.
   - In the baseline experiments, use fully convolutional networks with VGG16 backbone to semantically segment nuclei from the background, and use open operation to separate individual nuclei.
   - In the contrast experiments, apply Mask RCNN to direct segment nucleus instances. Extract features by ResNet101 with Feature Pymarid Networks; select regions of interest by Region Proposal Networks; semantically segment the nuclei in all regions by fully convolutional networks.
-  - Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters.
+  - Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters. Mask RCNN significantly outperforms the baseline model.
 - Get access to [pdf](./mlp-final-report.pdf).
 
 # Skill
