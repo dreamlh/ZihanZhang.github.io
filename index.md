@@ -40,26 +40,21 @@ Contact: s1719186@ed.ac.uk
 - Mar. 2018 to Apr. 2018
 - Coursework in Data Mining and Exploration, with _Yi Wei_, _Wen Jia_ and _Jiayu Li_.
 - Contents:
-  - Preprocess the large and dirty dataset by pandas, making it clean enough to feed neural networks.
+  - Preprocess the large and dirty dataset provided by KDD Cup 2009 competition using pandas, making it clean enough to feed neural networks.
   - Clip variables with large amounts of missing data; fill in the missing data; encode categorical data by one hot; reduce dimensions by linear or unlinear methods including PCA, Isomap & LLE.
   - Predict bahaviors by deep models; optimize hyperparameters; evaluate the result by AUC scores.
+  - In terms of customer churn, one of the three behaviors, the prediction AUC exceeds the first place of the competition.
 - Get access to [pdf](./DME_report.pdf).
 
 ## Instance Segmentation of Nucleus Images
 - Feb. 2018 to Apr. 2018
 - Coursework in Machine Learning Practical, with _Yi Wei_ and _Zhengjun Yue_, supervised by _Steve Renals_.
 - Contents:
-  - Segment nucleus instances from nucleus images acquired in different microscopy systems.
+  - Segment nucleus instances from nucleus images acquired in different microscopy systems, which is provided by Kaggle 2018 Data Science Bowl.
   - In the baseline experiments, use fully convolutional networks with VGG16 backbone to semantically segment nuclei from the background, and use open operation to separate individual nuclei.
   - In the contrast experiments, apply Mask RCNN to direct segment nucleus instances. Extract features by ResNet101 with Feature Pymarid Networks; select regions of interest by Region Proposal Networks; semantically segment the nuclei in all regions by fully convolutional networks.
-  - Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters. Mask RCNN significantly outperforms the baseline model.
+  - Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters. Mask RCNN significantly (0.401) outperforms the baseline model (0.229).
 - Get access to [pdf](./mlp-final-report.pdf).
-
-# Skill
-*    Python, including TensorFlow, Keras, Pandas, sk-learn, etc.
-*    Linux
-*    Hadoop
-*    Beginner: C, C++, Java, SAS, SQL, Matlab, R
 
 # Award
 *    Informatics International Masters Scholarship in Nov. 2017
@@ -69,3 +64,9 @@ Contact: s1719186@ed.ac.uk
 *    Third Prize @ Chinese Mathematics Competitions in Nov. 2015
 *    Second Prize @ Shandong Province Zone of China Undergraduate Mathematical Contest in Modelling (MCM) in Oct. 2015
 *    Meritorious Winner @ Certificate Authority Cup International MCM in Jan. 2015
+
+# Skill
+*    Python, including TensorFlow, Keras, Pandas, sk-learn, etc.
+*    Linux
+*    Hadoop
+*    Beginner: C, C++, Java, SAS, SQL, Matlab, R
