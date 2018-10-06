@@ -2,8 +2,6 @@
 layout: default
 ---
 
-**This page is under construction.**
-
 I am a postgraduate student in University of Edinburgh. I have completed all the courses and the dissertation, and will graduate in Nov. 2018. I am interested in Machine Learning & Artifical Intelligence.
 
 Contact: s1719186@ed.ac.uk
@@ -34,7 +32,7 @@ Contact: s1719186@ed.ac.uk
   - Implement Neural Language Models with Mixture of Softmaxes using TensorFlow to solve the Softmax bottleneck;
   - Optimize hyperparameters mainly by specific Random Search; explore the influence of different LSTM implementations and the number of Softmax components.
   - Speed up training by: training models in parallel on multiple GPUs; weight tying; weight matrix factorization; Gradient Clipping.
-  - The final model has lower perplexity and higher speed, compared with the original model.
+  - The final model has lower validation and test perplexities as well as higher speed, compared with the original model.
   - Compare the final TensorFlow model with the same model implemented using PyTorch.
 - Get access to [pdf](./dissertation.pdf) and [code](https://github.com/dreamlh/MoStfmodels).
 
