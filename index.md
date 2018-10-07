@@ -14,7 +14,7 @@ My CV in [pdf](./CV.pdf).
 *   Sep. 2017 to Nov. 2018
 *   **Master of Science with Distinction**
 *   Data Science @ School of Informatics
-*   GPA: 78/100
+*   GPA: 76/100
 *   Core Courses: Machine Learning and Patter Recognition (69/100), Machine Learning Practical (84/100), Probabilistic Modelling and Reasoning (90/100), Data Mining and Exploration (80/100), etc.
 
 ## Shandong University, China (985 & 211 project)
