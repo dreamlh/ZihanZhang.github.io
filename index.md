@@ -24,7 +24,7 @@ Contact: s1719186@ed.ac.uk
 *   Related Courses: Probability Theory (89/100), Mathematical Statistics (95/100), Applied Statistics (88/100), etc.
 
 
-# PROJECTS
+# RESEARCH & PROJECTS
 
 ## TensorFlow Applied to Neural Language Models
 - Jun. 2018 to Aug. 2018
@@ -71,3 +71,15 @@ Contact: s1719186@ed.ac.uk
 *    Linux
 *    Hadoop
 *    Beginner: C, C++, Java, SAS, SQL, Matlab, R
+
+# EXPERIENCE
+
+*    Volunteer @ the 22nd International Congress of Historical Sciences in Aug. 2015
+*    Volunteer @ the 13th National Key Middle School Principals Forum in Apr. 2015
+*    Volunteer @ the 11th Congress of National Federation of Industry and Commerce in Dec. 2014
+*    Manager @ Billiards Association of School of Management in Shandong University from Oct. 2014 to Jun. 2015
+*    Director @ Shandong University Student Union Office from Sep. 2014 to Jun. 2015
+
+# HOBBIES
+
+I am interested in table tennis, billiards, board games and movies; I love travelling and visited more than ten European countries in the last two years.
