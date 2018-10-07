@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a postgraduate student in University of Edinburgh. I have completed all the courses and the dissertation, and will graduate in Nov. 2018. I have strong mathematical and statistical background as my undergraduate major. I am currently interested in Machine Learning & Artifical Intelligence.
+I am a postgraduate student in University of Edinburgh. I have completed all the courses and the dissertation, and will graduate in Nov. 2018. I have strong mathematical and statistical background as my undergraduate major. I am currently interested in Machine Learning & Artificial Intelligence.
 
 Contact: s1719186@ed.ac.uk
 
@@ -27,7 +27,7 @@ Contact: s1719186@ed.ac.uk
 
 ## TensorFlow Applied to Neural Language Models
 - Jun. 2018 to Aug. 2018
-- **MSc thesis**, supervised by _Ben Allison_ (Amazon) and _Tania Bakhos_ (Amazon).
+- **MSc thesis**, supervised by Dr. _Ben Allison_ (Amazon) and Dr. _Tania Bakhos_ (Amazon).
 - Contents:
   - Implement Neural Language Models with Mixture of Softmaxes using TensorFlow to solve the Softmax bottleneck.
   - Optimize hyperparameters mainly by specific Random Search; explore the influence of different LSTM implementations and the number of Softmax components.
