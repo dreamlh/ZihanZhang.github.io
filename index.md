@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a postgraduate student in University of Edinburgh. I have completed all the courses and the dissertation, and will graduate in Nov. 2018. I have strong mathematical and statistical background as my undergraduate major. I am currently interested in Machine Learning & Artificial Intelligence.
+I am a postgraduate student in University of Edinburgh. I have completed all the courses and the dissertation of Data Science programme, and will graduate in Nov. 2018. Prior to that, I studied in a National Mathematical Training Base at Shandong University, where I built strong mathematical and statistical skills. My current research interest is Machine Learning & Artificial Intelligence.
 
 Contact: s1719186@ed.ac.uk
 
@@ -54,7 +54,7 @@ Contact: s1719186@ed.ac.uk
   - Segment nucleus instances from nucleus images acquired in different microscopy systems, which is provided by Kaggle 2018 Data Science Bowl.
   - In the baseline experiments, use fully convolutional networks with VGG16 backbone to semantically segment nuclei from the background, and use open operation to separate individual nuclei.
   - In the contrast experiments, apply Mask RCNN to direct segment nucleus instances. Extract features by ResNet101 with Feature Pymarid Networks; select regions of interest by Region Proposal Networks; semantically segment the nuclei in all regions by fully convolutional networks.
-  - Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters. Mask RCNN significantly (0.401) outperforms the baseline model (0.229).
+  - Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters. Mask RCNN significantly outperforms the baseline model.
 - Get access to [pdf](./mlp-final-report.pdf).
 
 # AWARDS & HONORS
