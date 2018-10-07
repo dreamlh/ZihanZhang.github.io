@@ -48,7 +48,7 @@ Contact: s1719186@ed.ac.uk
 
 ## Instance Segmentation of Nucleus Images
 - Feb. 2018 to Apr. 2018
-- Coursework in Machine Learning Practical, with _Yi Wei_ and _Zhengjun Yue_, supervised by _Steve Renals_.
+- Coursework in Machine Learning Practical, with _Yi Wei_ and _Zhengjun Yue_, supervised by Prof. _Steve Renals_.
 - Contents:
   - Segment nucleus instances from nucleus images acquired in different microscopy systems, which is provided by Kaggle 2018 Data Science Bowl.
   - In the baseline experiments, use fully convolutional networks with VGG16 backbone to semantically segment nuclei from the background, and use open operation to separate individual nuclei.
