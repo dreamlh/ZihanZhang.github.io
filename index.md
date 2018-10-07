@@ -6,7 +6,7 @@ I am a postgraduate student in University of Edinburgh. I have completed all the
 
 Contact: s1719186@ed.ac.uk
 
-# Education
+# EDUCATION
 
 ## University of Edinburgh, UK
 *   Sep. 2017 to Nov. 2018
@@ -23,13 +23,13 @@ Contact: s1719186@ed.ac.uk
 *   Related Courses: Probability Theory (89/100), Mathematical Statistics (95/100), Applied Statistics (88/100), etc.
 
 
-# Projects
+# PROJECTS
 
 ## TensorFlow Applied to Neural Language Models
 - Jun. 2018 to Aug. 2018
 - **MSc thesis**, supervised by _Ben Allison_ (Amazon) and _Tania Bakhos_ (Amazon).
 - Contents:
-  - Implement Neural Language Models with Mixture of Softmaxes using TensorFlow to solve the Softmax bottleneck;
+  - Implement Neural Language Models with Mixture of Softmaxes using TensorFlow to solve the Softmax bottleneck.
   - Optimize hyperparameters mainly by specific Random Search; explore the influence of different LSTM implementations and the number of Softmax components.
   - Speed up training by: training models in parallel on multiple GPUs; weight tying; weight matrix factorization; Gradient Clipping.
   - The final model has lower validation and test perplexities as well as higher speed, compared with the original model.
@@ -56,7 +56,7 @@ Contact: s1719186@ed.ac.uk
   - Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters. Mask RCNN significantly (0.401) outperforms the baseline model (0.229).
 - Get access to [pdf](./mlp-final-report.pdf).
 
-# Awards
+# AWARDS & HONORS
 *    Informatics International Masters Scholarship in Nov. 2017
 *    Hua Luogeng Schorlarship in Dec. 2016
 *    Honorable Mention @ Interdisciplinary Contest in Modeling (US) in Apr. 2016
@@ -65,7 +65,7 @@ Contact: s1719186@ed.ac.uk
 *    Second Prize @ Shandong Province Zone of China Undergraduate Mathematical Contest in Modelling (MCM) in Oct. 2015
 *    Meritorious Winner @ Certificate Authority Cup International MCM in Jan. 2015
 
-# Skills
+# SKILLS
 *    Python, including TensorFlow, Keras, Pandas, sk-learn, etc.
 *    Linux
 *    Hadoop
