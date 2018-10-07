@@ -23,7 +23,7 @@ Contact: s1719186@ed.ac.uk
 *   Related Courses: Probability Theory (89/100), Mathematical Statistics (95/100), Applied Statistics (88/100), etc.
 
 
-# Project
+# Projects
 
 ## TensorFlow Applied to Neural Language Models
 - Jun. 2018 to Aug. 2018
@@ -56,7 +56,7 @@ Contact: s1719186@ed.ac.uk
   - Implement the two models and pretrain them on COCO datasets; implement evaluation criteria by mean average procision; carefully tune hyperparameters. Mask RCNN significantly (0.401) outperforms the baseline model (0.229).
 - Get access to [pdf](./mlp-final-report.pdf).
 
-# Award
+# Awards
 *    Informatics International Masters Scholarship in Nov. 2017
 *    Hua Luogeng Schorlarship in Dec. 2016
 *    Honorable Mention @ Interdisciplinary Contest in Modeling (US) in Apr. 2016
@@ -65,7 +65,7 @@ Contact: s1719186@ed.ac.uk
 *    Second Prize @ Shandong Province Zone of China Undergraduate Mathematical Contest in Modelling (MCM) in Oct. 2015
 *    Meritorious Winner @ Certificate Authority Cup International MCM in Jan. 2015
 
-# Skill
+# Skills
 *    Python, including TensorFlow, Keras, Pandas, sk-learn, etc.
 *    Linux
 *    Hadoop
