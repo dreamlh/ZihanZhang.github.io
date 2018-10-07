@@ -5,7 +5,8 @@ layout: default
 I am a postgraduate student in University of Edinburgh. I have completed all the courses and the dissertation of Data Science programme, and will graduate in Nov. 2018. Prior to that, I studied in a National Mathematical Training Base at Shandong University, where I built strong mathematical and statistical skills. My current research interest is Machine Learning & Artificial Intelligence.
 
 Contact: s1719186@ed.ac.uk
-CV in [pdf](./CV.pdf).
+
+My CV in [pdf](./CV.pdf).
 
 # EDUCATION
 
