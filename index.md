@@ -18,7 +18,8 @@ Contact: s1719186@ed.ac.uk
 ## Shandong University, China (985 & 211 project)
 *   Sep. 2013 to Jun. 2017
 *   **Bachelor of Science**
-*   Mathematics and Applied Mathematics @ Hua Luogeng Class (National Mathematical Training Base) in School of Mathematics
+*   Mathematics and Applied Mathematics @ School of Mathematics
+*   Studied at _Hua Luogeng Class_, a National Mathematical Training Base, ranked top 3 in China by specialization.
 *   GPA: 85/100 or 4.3/5.0
 *   Related Courses: Probability Theory (89/100), Mathematical Statistics (95/100), Applied Statistics (88/100), etc.
 
