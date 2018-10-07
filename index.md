@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a postgraduate student in University of Edinburgh. I have completed all the courses and the dissertation, and will graduate in Nov. 2018. I have strong mathematics background as my undergraduate major. I am currently interested in Machine Learning \& Artifical Intelligence.
+I am a postgraduate student in University of Edinburgh. I have completed all the courses and the dissertation, and will graduate in Nov. 2018. I have strong mathematical and statistical background as my undergraduate major. I am currently interested in Machine Learning & Artifical Intelligence.
 
 Contact: s1719186@ed.ac.uk
 
