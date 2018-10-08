@@ -22,7 +22,7 @@ My CV in [pdf](./CV.pdf) version.
 *   **Bachelor of Science**
 *   Mathematics and Applied Mathematics @ School of Mathematics
 *   Studied at _Hua Luogeng Class_, a National Mathematical Training Base, ranked top 3 in China by specialization.
-*   GPA: [85/100](./BSc%20transcript%20in%20100%20scale.pdf) or [4.3/5.0](./BSc%20transcript%20in%205.0%20scale.pdf)
+*   GPA: [85/100](./BSc%20transcript%20in%20100%20scale.pdf) or [4.3/5.0](./BSc%20transript%20in%205.0%20scale.pdf)
 *   Related Courses: Probability Theory (89/100), Mathematical Statistics (95/100), Applied Statistics (88/100), etc.
 
 
