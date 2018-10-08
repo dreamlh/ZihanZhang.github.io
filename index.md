@@ -6,7 +6,7 @@ I am a postgraduate student in University of Edinburgh. I have completed all the
 
 Contact: s1719186@ed.ac.uk
 
-My CV in [pdf](./CV.pdf) version.
+My CV in [pdf](./CV.pdf) version. 
 
 # EDUCATION
 
